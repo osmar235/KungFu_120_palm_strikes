@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite them as below."
+title: "Palm strike EMG: task goal, repetition and timing consistency (data and code)"
+authors:
+  - family-names: "Pinto Neto"
+    given-names: "Osmar"
+    affiliation: "California State University San Marcos"
+repository-code: "https://github.com/osmar235/KungFu_120_palm_strikes"
+license: MIT
+date-released: 2026-11-23

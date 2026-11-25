@@ -1,0 +1,9 @@
+record,decision,sample0,reason
+P1_no_impact_10,exclude,3145,Intervening burst 532 and 503 ms from adjacent multimuscle cycles; not recovered by the template.
+P2_no_impact_10,exclude,2380,Posterior deltoid dominant burst with nearly silent triceps 605 ms after a multimuscle cycle (retraction pattern).
+P2_no_impact_10,exclude,3859,Weak burst with low triceps 631 ms after a multimuscle cycle; pattern differs from the recurring cycles.
+P2_no_impact_10,not_inserted,5368,Template candidate 688 ms after a cycle with low-amplitude activity and no multimuscle burst.
+P4_no_impact_10,insert,1735,Phase substitution: the first cycle starts with the triceps burst found by the template.
+P4_no_impact_10,exclude,2161,Phase substitution: later anterior deltoid and posterior deltoid burst without triceps 735 ms before the next cycle.
+P4_no_impact_10,exclude,5445,Burst without triceps 515 ms after a multimuscle cycle; not recovered by the template.
+P5_no_impact_10,exclude,2187,Posterior deltoid dominant burst 512 and 509 ms from adjacent multimuscle cycles; not recovered by the template.

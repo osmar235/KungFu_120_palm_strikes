@@ -1,0 +1,49 @@
+{
+ "S4_clamped_counts": {
+  "1_impact": {
+   "clamped": 0,
+   "total": 36
+  },
+  "1_no_impact": {
+   "clamped": 0,
+   "total": 36
+  },
+  "10_impact": {
+   "clamped": 0,
+   "total": 180
+  },
+  "10_no_impact": {
+   "clamped": 2,
+   "total": 180
+  },
+  "120_impact": {
+   "clamped": 31,
+   "total": 2161
+  },
+  "120_no_impact": {
+   "clamped": 81,
+   "total": 2198
+  }
+ },
+ "S4_clamped_by_muscle_all": {
+  "BR": 10,
+  "DA": 12,
+  "DP": 69,
+  "TB": 23
+ },
+ "S4_BR_minus_TB_excluding_clamped": {
+  "excluded_strikes": 3,
+  "early": 56.0,
+  "late": 72.5,
+  "change": 21.0,
+  "p": 0.02734375
+ },
+ "S5_DP_impact_excluding_P5": {
+  "n": 8,
+  "rms_change_pct": 23.508435783320472,
+  "n_rms_up": 6,
+  "p_rms": 0.078125,
+  "mdf_change_pct": 0.4374745654322387,
+  "p_mdf": 0.7421875
+ }
+}

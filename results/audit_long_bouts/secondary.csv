@@ -1,0 +1,15 @@
+metric,comparison,n,early_or_shield,late_or_air,change_or_number_lower,p
+DA-TB,impact,9,67.5,92.5,25.0,0.49609375
+DA-TB,no_impact,9,26.0,44.0,5.5,1.0
+BR-TB,impact,9,56.0,82.0,21.5,0.01953125
+BR-TB,no_impact,9,21.5,41.5,9.5,0.31640625
+BR-TB no edge,impact,9,56.0,72.5,21.0,0.02734375
+BR-TB no edge,no_impact,9,21.5,41.5,9.5,0.31640625
+DP-TB,impact,8,95.0,137.5,25.0,0.1484375
+DP-TB,no_impact,8,88.75,111.75,23.0,0.7421875
+TB peak,impact,9,-42.5,-45.5,-4.5,0.65234375
+TB peak,no_impact,9,-11.5,-7.5,12.0,0.0546875
+SD,shield vs air,9,40.14594586875454,85.35416412415584,8.0,0.01171875
+MAD,shield vs air,9,39.2889,54.856199999999994,6.0,0.1640625
+IQR,shield vs air,9,53.75,65.25,5.0,0.25
+DP retraction,shield vs air,8,0.3011793552651913,0.6504618019819489,-0.3486299845012718,0.3125

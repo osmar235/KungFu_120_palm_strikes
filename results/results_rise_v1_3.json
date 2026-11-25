@@ -1,0 +1,274 @@
+{
+ "task_goal": {
+  "DA": {
+   "rise_time_ms": {
+    "impact": 82.5,
+    "no_impact": 64.0,
+    "n_impact_higher": 7,
+    "p": 0.203125
+   },
+   "slope_norm": {
+    "impact": 7.2751322751322745,
+    "no_impact": 9.610983981693362,
+    "n_impact_higher": 2,
+    "p": 0.1640625
+   },
+   "dmax_norm": {
+    "impact": 19.454879840149488,
+    "no_impact": 22.356390054875106,
+    "n_impact_higher": 2,
+    "p": 0.09765625
+   },
+   "rer50_raw": {
+    "impact": 9.72556777778233,
+    "no_impact": 6.597499409403257,
+    "n_impact_higher": 5,
+    "p": 0.8203125
+   },
+   "onset_to_peak_ms": {
+    "impact": 106.5,
+    "no_impact": 86.0,
+    "n_impact_higher": 8,
+    "p": 0.01953125
+   }
+  },
+  "TB": {
+   "rise_time_ms": {
+    "impact": 74.5,
+    "no_impact": 47.0,
+    "n_impact_higher": 9,
+    "p": 0.00390625
+   },
+   "slope_norm": {
+    "impact": 8.68185212845407,
+    "no_impact": 13.656174334140434,
+    "n_impact_higher": 1,
+    "p": 0.0078125
+   },
+   "dmax_norm": {
+    "impact": 19.183651351682038,
+    "no_impact": 21.407668925394614,
+    "n_impact_higher": 0,
+    "p": 0.00390625
+   },
+   "rer50_raw": {
+    "impact": 14.103550932870498,
+    "no_impact": 22.477251183932744,
+    "n_impact_higher": 4,
+    "p": 0.734375
+   },
+   "onset_to_peak_ms": {
+    "impact": 96.5,
+    "no_impact": 71.0,
+    "n_impact_higher": 8,
+    "p": 0.01171875
+   }
+  },
+  "BR": {
+   "rise_time_ms": {
+    "impact": 51.0,
+    "no_impact": 32.5,
+    "n_impact_higher": 6,
+    "p": 0.30078125
+   },
+   "slope_norm": {
+    "impact": 12.818181818181817,
+    "no_impact": 19.05241935483871,
+    "n_impact_higher": 3,
+    "p": 0.30078125
+   },
+   "dmax_norm": {
+    "impact": 22.59168686955604,
+    "no_impact": 22.254312020985182,
+    "n_impact_higher": 5,
+    "p": 0.8203125
+   },
+   "rer50_raw": {
+    "impact": 9.561652713130389,
+    "no_impact": 11.749393324919193,
+    "n_impact_higher": 4,
+    "p": 0.359375
+   },
+   "onset_to_peak_ms": {
+    "impact": 71.0,
+    "no_impact": 57.5,
+    "n_impact_higher": 6,
+    "p": 0.42578125
+   }
+  },
+  "DP": {
+   "rise_time_ms": {
+    "impact": 52.0,
+    "no_impact": 28.5,
+    "n_impact_higher": 7,
+    "p": 0.04296875
+   },
+   "slope_norm": {
+    "impact": 12.745098039215687,
+    "no_impact": 21.11111111111111,
+    "n_impact_higher": 2,
+    "p": 0.09765625
+   },
+   "dmax_norm": {
+    "impact": 27.223301815963165,
+    "no_impact": 25.49827459537396,
+    "n_impact_higher": 7,
+    "p": 0.12890625
+   },
+   "rer50_raw": {
+    "impact": 5.730164216907074,
+    "no_impact": 13.616519572629233,
+    "n_impact_higher": 2,
+    "p": 0.01953125
+   },
+   "onset_to_peak_ms": {
+    "impact": 83.0,
+    "no_impact": 49.0,
+    "n_impact_higher": 6,
+    "p": 0.09765625
+   }
+  }
+ },
+ "bout": {
+  "impact": {
+   "DA": {
+    "slope_norm": {
+     "early": 10.0,
+     "late": 6.581155598177895,
+     "p": 0.25
+    },
+    "rer50_raw": {
+     "early": 4.795445862774671,
+     "late": 5.25732749359272,
+     "p": 0.8203125
+    },
+    "rise_time_ms": {
+     "early": 60.0,
+     "late": 91.5,
+     "p": 0.12890625
+    }
+   },
+   "TB": {
+    "slope_norm": {
+     "early": 9.384164222873899,
+     "late": 6.976744186046512,
+     "p": 0.01171875
+    },
+    "rer50_raw": {
+     "early": 23.869785099357202,
+     "late": 17.461781059073054,
+     "p": 0.1640625
+    },
+    "rise_time_ms": {
+     "early": 64.0,
+     "late": 86.0,
+     "p": 0.01171875
+    }
+   },
+   "BR": {
+    "slope_norm": {
+     "early": 9.761904761904763,
+     "late": 10.909090909090908,
+     "p": 0.8203125
+    },
+    "rer50_raw": {
+     "early": 11.876505536104226,
+     "late": 11.378666090744161,
+     "p": 0.359375
+    },
+    "rise_time_ms": {
+     "early": 61.5,
+     "late": 55.0,
+     "p": 0.546875
+    }
+   },
+   "DP": {
+    "slope_norm": {
+     "early": 13.947993447993447,
+     "late": 10.272636039250669,
+     "p": 0.46875
+    },
+    "rer50_raw": {
+     "early": 10.379972157107424,
+     "late": 12.020015419182851,
+     "p": 0.25
+    },
+    "rise_time_ms": {
+     "early": 44.5,
+     "late": 60.0,
+     "p": 0.8125
+    }
+   }
+  },
+  "no_impact": {
+   "DA": {
+    "slope_norm": {
+     "early": 10.717703349282296,
+     "late": 8.181818181818182,
+     "p": 0.01953125
+    },
+    "rer50_raw": {
+     "early": 8.53940126232158,
+     "late": 5.109262658727754,
+     "p": 0.0390625
+    },
+    "rise_time_ms": {
+     "early": 56.0,
+     "late": 73.5,
+     "p": 0.02734375
+    }
+   },
+   "TB": {
+    "slope_norm": {
+     "early": 16.904761904761905,
+     "late": 11.538461538461538,
+     "p": 0.07421875
+    },
+    "rer50_raw": {
+     "early": 17.91609323631778,
+     "late": 18.12015837506223,
+     "p": 0.25
+    },
+    "rise_time_ms": {
+     "early": 35.5,
+     "late": 52.0,
+     "p": 0.31640625
+    }
+   },
+   "BR": {
+    "slope_norm": {
+     "early": 20.0,
+     "late": 20.0,
+     "p": 0.8203125
+    },
+    "rer50_raw": {
+     "early": 11.110213079670743,
+     "late": 10.526314545512818,
+     "p": 0.09765625
+    },
+    "rise_time_ms": {
+     "early": 30.0,
+     "late": 30.0,
+     "p": 0.890625
+    }
+   },
+   "DP": {
+    "slope_norm": {
+     "early": 17.811385918003566,
+     "late": 21.17241379310345,
+     "p": 0.640625
+    },
+    "rer50_raw": {
+     "early": 11.858102181072704,
+     "late": 10.048052976322836,
+     "p": 0.3828125
+    },
+    "rise_time_ms": {
+     "early": 33.75,
+     "late": 28.5,
+     "p": 0.4375
+    }
+   }
+  }
+ }
+}

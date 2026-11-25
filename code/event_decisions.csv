@@ -1,0 +1,40 @@
+record,decision,sample0,original_event,reason
+P1_no_impact,exclude,6090,2,Intervening burst has a different muscle pattern from adjacent multimuscle cycles.
+P1_no_impact,exclude,7185,4,Intervening burst has a different muscle pattern from adjacent multimuscle cycles.
+P1_no_impact,exclude,14225,12,Intervening burst has a different muscle pattern from adjacent multimuscle cycles.
+P1_no_impact,exclude,17125,15,Intervening burst has a different muscle pattern from adjacent multimuscle cycles.
+P1_no_impact,exclude,19092,17,Intervening burst has a different muscle pattern from adjacent multimuscle cycles.
+P1_no_impact,exclude,21161,19,Intervening burst has a different muscle pattern from adjacent multimuscle cycles.
+P1_no_impact,exclude,31152,30,Intervening burst has a different muscle pattern from adjacent multimuscle cycles.
+P1_no_impact,exclude,32163,32,Intervening burst has a different muscle pattern from adjacent multimuscle cycles.
+P1_no_impact,exclude,37098,38,Intervening burst has a different muscle pattern from adjacent multimuscle cycles.
+P1_no_impact,exclude,47122,49,Intervening burst has a different muscle pattern from adjacent multimuscle cycles.
+P1_no_impact,insert,14670,,"Recurring multimuscle burst between adjacent cycles, absent at this phase in the original event list."
+P1_no_impact,insert,17588,,"Recurring multimuscle burst between adjacent cycles, absent at this phase in the original event list."
+P1_no_impact,insert,20731,,"Recurring multimuscle burst between adjacent cycles, absent at this phase in the original event list."
+P2_no_impact,exclude,18843,13,Intervening burst has a different muscle pattern from adjacent multimuscle cycles.
+P3_impact,exclude,12022,9,Intervening burst has a different muscle pattern from adjacent multimuscle cycles.
+P3_impact,exclude,13088,11,Intervening burst has a different muscle pattern from adjacent multimuscle cycles.
+P3_impact,exclude,15192,14,Intervening burst has a different muscle pattern from adjacent multimuscle cycles.
+P3_impact,exclude,28615,28,Intervening burst has a different muscle pattern from adjacent multimuscle cycles.
+P3_impact,exclude,40423,40,Intervening burst has a different muscle pattern from adjacent multimuscle cycles.
+P3_no_impact,exclude,25400,23,Intervening burst has a different muscle pattern from adjacent multimuscle cycles.
+P3_no_impact,exclude,43311,42,Intervening burst has a different muscle pattern from adjacent multimuscle cycles.
+P4_no_impact,exclude,4195,1,Two peaks within the opening cycle. Use the earlier multimuscle peak aligned with TB activation; the later peak is DA-dominated.
+P4_no_impact,insert,3947,,Two peaks within the opening cycle. Use the earlier multimuscle peak aligned with TB activation; the later peak is DA-dominated.
+P5_no_impact,exclude,6679,5,Intervening burst has a different muscle pattern from adjacent multimuscle cycles.
+P5_no_impact,exclude,10608,10,Intervening burst has a different muscle pattern from adjacent multimuscle cycles.
+P5_no_impact,exclude,23663,24,Intervening burst has a different muscle pattern from adjacent multimuscle cycles.
+P5_no_impact,exclude,34610,35,Intervening burst has a different muscle pattern from adjacent multimuscle cycles.
+P5_no_impact,insert,24063,,"Recurring multimuscle burst between adjacent cycles, absent at this phase in the original event list."
+P6_no_impact,exclude,15918,12,Intervening burst has a different muscle pattern from adjacent multimuscle cycles.
+P6_no_impact,exclude,23884,21,Intervening burst has a different muscle pattern from adjacent multimuscle cycles.
+P6_no_impact,exclude,29915,28,Intervening burst has a different muscle pattern from adjacent multimuscle cycles.
+P6_no_impact,exclude,36847,36,Intervening burst has a different muscle pattern from adjacent multimuscle cycles.
+P6_no_impact,exclude,42751,43,Intervening burst has a different muscle pattern from adjacent multimuscle cycles.
+P6_no_impact,exclude,47374,49,Intervening burst has a different muscle pattern from adjacent multimuscle cycles.
+P6_no_impact,exclude,50328,53,Intervening burst has a different muscle pattern from adjacent multimuscle cycles.
+P6_no_impact,exclude,61342,64,Intervening burst has a different muscle pattern from adjacent multimuscle cycles.
+P6_no_impact,insert,60908,,"Recurring multimuscle burst between adjacent cycles, absent at this phase in the original event list."
+P7_impact,retain,49794,47,"Distinct DA, TB and BR burst after a pause; the shorter spacing alone does not justify exclusion."
+P7_no_impact,exclude,44459,43,Intervening burst has a different muscle pattern from adjacent multimuscle cycles.

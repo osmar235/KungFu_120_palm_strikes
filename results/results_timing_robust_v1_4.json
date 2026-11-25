@@ -1,0 +1,428 @@
+{
+ "series_1_10": {
+  "lag_BR_TB": {
+   "sd": {
+    "impact": 48.540361212774954,
+    "no_impact": 81.63495983135329,
+    "n_lower_impact": 7,
+    "p": 0.01953125
+   },
+   "mad": {
+    "impact": 48.925799999999995,
+    "no_impact": 54.1149,
+    "n_lower_impact": 4,
+    "p": 0.49609375
+   },
+   "iqr": {
+    "impact": 55.5,
+    "no_impact": 90.5,
+    "n_lower_impact": 5,
+    "p": 0.30078125
+   }
+  },
+  "lag_DP_TB": {
+   "sd": {
+    "impact": 43.23424568556736,
+    "no_impact": 74.40609294047542,
+    "n_lower_impact": 8,
+    "p": 0.07421875
+   },
+   "mad": {
+    "impact": 25.2042,
+    "no_impact": 28.1694,
+    "n_lower_impact": 5,
+    "p": 0.25
+   },
+   "iqr": {
+    "impact": 33.5,
+    "no_impact": 39.75,
+    "n_lower_impact": 4,
+    "p": 0.8203125
+   }
+  },
+  "lag_TB_DA": {
+   "sd": {
+    "impact": 33.46291479633337,
+    "no_impact": 70.93001245359166,
+    "n_lower_impact": 8,
+    "p": 0.01953125
+   },
+   "mad": {
+    "impact": 29.651999999999997,
+    "no_impact": 41.5128,
+    "n_lower_impact": 6,
+    "p": 0.1640625
+   },
+   "iqr": {
+    "impact": 33.25,
+    "no_impact": 62.5,
+    "n_lower_impact": 7,
+    "p": 0.07421875
+   }
+  },
+  "peak_BR": {
+   "sd": {
+    "impact": 37.00630576897222,
+    "no_impact": 38.89173005494441,
+    "n_lower_impact": 5,
+    "p": 0.42578125
+   },
+   "mad": {
+    "impact": 19.273799999999998,
+    "no_impact": 17.049899999999997,
+    "n_lower_impact": 4,
+    "p": 0.8203125
+   },
+   "iqr": {
+    "impact": 33.25,
+    "no_impact": 25.5,
+    "n_lower_impact": 3,
+    "p": 0.65234375
+   }
+  },
+  "peak_DA": {
+   "sd": {
+    "impact": 32.363044768171406,
+    "no_impact": 35.410450434864565,
+    "n_lower_impact": 5,
+    "p": 0.30078125
+   },
+   "mad": {
+    "impact": 15.5673,
+    "no_impact": 37.8063,
+    "n_lower_impact": 5,
+    "p": 0.109375
+   },
+   "iqr": {
+    "impact": 18.25,
+    "no_impact": 51.75,
+    "n_lower_impact": 6,
+    "p": 0.0546875
+   }
+  },
+  "peak_DP": {
+   "sd": {
+    "impact": 47.61932380872286,
+    "no_impact": 51.67075252661477,
+    "n_lower_impact": 6,
+    "p": 0.42578125
+   },
+   "mad": {
+    "impact": 37.8063,
+    "no_impact": 35.5824,
+    "n_lower_impact": 5,
+    "p": 0.91015625
+   },
+   "iqr": {
+    "impact": 45.0,
+    "no_impact": 59.0,
+    "n_lower_impact": 6,
+    "p": 0.4140625
+   }
+  },
+  "peak_TB": {
+   "sd": {
+    "impact": 44.40007507501161,
+    "no_impact": 61.14381952958669,
+    "n_lower_impact": 7,
+    "p": 0.01953125
+   },
+   "mad": {
+    "impact": 40.771499999999996,
+    "no_impact": 38.547599999999996,
+    "n_lower_impact": 6,
+    "p": 0.30078125
+   },
+   "iqr": {
+    "impact": 50.0,
+    "no_impact": 46.75,
+    "n_lower_impact": 6,
+    "p": 0.12890625
+   }
+  }
+ },
+ "equal_strikes": {
+  "lag_BR_TB": {
+   "sd": {
+    "impact": 48.540361212774954,
+    "no_impact": 81.63495983135329,
+    "n_lower_impact": 7,
+    "p": 0.01953125
+   },
+   "mad": {
+    "impact": 48.925799999999995,
+    "no_impact": 54.1149,
+    "n_lower_impact": 4,
+    "p": 0.49609375
+   },
+   "iqr": {
+    "impact": 55.5,
+    "no_impact": 90.5,
+    "n_lower_impact": 5,
+    "p": 0.30078125
+   }
+  },
+  "lag_DP_TB": {
+   "sd": {
+    "impact": 43.23424568556736,
+    "no_impact": 74.40609294047542,
+    "n_lower_impact": 8,
+    "p": 0.07421875
+   },
+   "mad": {
+    "impact": 25.2042,
+    "no_impact": 28.1694,
+    "n_lower_impact": 5,
+    "p": 0.25
+   },
+   "iqr": {
+    "impact": 33.5,
+    "no_impact": 39.75,
+    "n_lower_impact": 4,
+    "p": 0.8203125
+   }
+  },
+  "lag_TB_DA": {
+   "sd": {
+    "impact": 33.46291479633337,
+    "no_impact": 70.93001245359166,
+    "n_lower_impact": 8,
+    "p": 0.01953125
+   },
+   "mad": {
+    "impact": 29.651999999999997,
+    "no_impact": 41.5128,
+    "n_lower_impact": 6,
+    "p": 0.1640625
+   },
+   "iqr": {
+    "impact": 33.25,
+    "no_impact": 62.5,
+    "n_lower_impact": 7,
+    "p": 0.07421875
+   }
+  },
+  "peak_BR": {
+   "sd": {
+    "impact": 37.00630576897222,
+    "no_impact": 38.89173005494441,
+    "n_lower_impact": 5,
+    "p": 0.42578125
+   },
+   "mad": {
+    "impact": 19.273799999999998,
+    "no_impact": 17.049899999999997,
+    "n_lower_impact": 4,
+    "p": 0.8203125
+   },
+   "iqr": {
+    "impact": 33.25,
+    "no_impact": 25.5,
+    "n_lower_impact": 3,
+    "p": 0.65234375
+   }
+  },
+  "peak_DA": {
+   "sd": {
+    "impact": 32.363044768171406,
+    "no_impact": 35.410450434864565,
+    "n_lower_impact": 5,
+    "p": 0.30078125
+   },
+   "mad": {
+    "impact": 15.5673,
+    "no_impact": 37.8063,
+    "n_lower_impact": 5,
+    "p": 0.109375
+   },
+   "iqr": {
+    "impact": 18.25,
+    "no_impact": 51.75,
+    "n_lower_impact": 6,
+    "p": 0.0546875
+   }
+  },
+  "peak_DP": {
+   "sd": {
+    "impact": 47.61932380872286,
+    "no_impact": 51.67075252661477,
+    "n_lower_impact": 6,
+    "p": 0.42578125
+   },
+   "mad": {
+    "impact": 37.8063,
+    "no_impact": 35.5824,
+    "n_lower_impact": 5,
+    "p": 0.91015625
+   },
+   "iqr": {
+    "impact": 45.0,
+    "no_impact": 59.0,
+    "n_lower_impact": 6,
+    "p": 0.4140625
+   }
+  },
+  "peak_TB": {
+   "sd": {
+    "impact": 44.40007507501161,
+    "no_impact": 61.14381952958669,
+    "n_lower_impact": 7,
+    "p": 0.01953125
+   },
+   "mad": {
+    "impact": 40.771499999999996,
+    "no_impact": 38.547599999999996,
+    "n_lower_impact": 6,
+    "p": 0.30078125
+   },
+   "iqr": {
+    "impact": 50.0,
+    "no_impact": 46.75,
+    "n_lower_impact": 6,
+    "p": 0.12890625
+   }
+  }
+ },
+ "first20_of_120": {
+  "lag_BR_TB": {
+   "sd": {
+    "impact": 44.00619791058362,
+    "no_impact": 85.94660075778555,
+    "n_lower_impact": 8,
+    "p": 0.0546875
+   },
+   "mad": {
+    "impact": 41.5128,
+    "no_impact": 71.9061,
+    "n_lower_impact": 6,
+    "p": 0.09765625
+   },
+   "iqr": {
+    "impact": 57.5,
+    "no_impact": 96.0,
+    "n_lower_impact": 5,
+    "p": 0.203125
+   }
+  },
+  "lag_DP_TB": {
+   "sd": {
+    "impact": 64.28257237485609,
+    "no_impact": 88.92030578249683,
+    "n_lower_impact": 5,
+    "p": 0.3828125
+   },
+   "mad": {
+    "impact": 46.701899999999995,
+    "no_impact": 65.2344,
+    "n_lower_impact": 4,
+    "p": 0.9453125
+   },
+   "iqr": {
+    "impact": 66.0,
+    "no_impact": 132.125,
+    "n_lower_impact": 4,
+    "p": 0.640625
+   }
+  },
+  "lag_TB_DA": {
+   "sd": {
+    "impact": 40.14594586875454,
+    "no_impact": 94.84298765692859,
+    "n_lower_impact": 7,
+    "p": 0.0390625
+   },
+   "mad": {
+    "impact": 39.2889,
+    "no_impact": 56.3388,
+    "n_lower_impact": 6,
+    "p": 0.1640625
+   },
+   "iqr": {
+    "impact": 53.75,
+    "no_impact": 76.0,
+    "n_lower_impact": 6,
+    "p": 0.203125
+   }
+  },
+  "peak_BR": {
+   "sd": {
+    "impact": 32.258778462285086,
+    "no_impact": 52.55552619214589,
+    "n_lower_impact": 8,
+    "p": 0.02734375
+   },
+   "mad": {
+    "impact": 14.825999999999999,
+    "no_impact": 11.119499999999999,
+    "n_lower_impact": 4,
+    "p": 0.91015625
+   },
+   "iqr": {
+    "impact": 19.0,
+    "no_impact": 20.0,
+    "n_lower_impact": 6,
+    "p": 0.49609375
+   }
+  },
+  "peak_DA": {
+   "sd": {
+    "impact": 33.91262204645837,
+    "no_impact": 39.04920817815208,
+    "n_lower_impact": 7,
+    "p": 0.359375
+   },
+   "mad": {
+    "impact": 14.825999999999999,
+    "no_impact": 23.7216,
+    "n_lower_impact": 6,
+    "p": 0.30078125
+   },
+   "iqr": {
+    "impact": 20.5,
+    "no_impact": 50.75,
+    "n_lower_impact": 7,
+    "p": 0.1640625
+   }
+  },
+  "peak_DP": {
+   "sd": {
+    "impact": 45.05984320412565,
+    "no_impact": 59.21687365508157,
+    "n_lower_impact": 6,
+    "p": 0.4609375
+   },
+   "mad": {
+    "impact": 39.659549999999996,
+    "no_impact": 45.58995,
+    "n_lower_impact": 5,
+    "p": 0.640625
+   },
+   "iqr": {
+    "impact": 45.125,
+    "no_impact": 84.5,
+    "n_lower_impact": 5,
+    "p": 0.3828125
+   }
+  },
+  "peak_TB": {
+   "sd": {
+    "impact": 47.3352805830787,
+    "no_impact": 74.2789072389064,
+    "n_lower_impact": 6,
+    "p": 0.203125
+   },
+   "mad": {
+    "impact": 37.8063,
+    "no_impact": 26.686799999999998,
+    "n_lower_impact": 5,
+    "p": 0.5703125
+   },
+   "iqr": {
+    "impact": 53.25,
+    "no_impact": 82.5,
+    "n_lower_impact": 7,
+    "p": 0.09765625
+   }
+  }
+ }
+}

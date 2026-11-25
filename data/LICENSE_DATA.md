@@ -1,0 +1,1 @@
+The de-identified EMG data in this folder are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/. Please cite the article and this repository when using them.
