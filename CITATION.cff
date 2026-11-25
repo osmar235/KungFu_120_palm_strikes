@@ -7,4 +7,6 @@ authors:
     affiliation: "California State University San Marcos"
 repository-code: "https://github.com/osmar235/KungFu_120_palm_strikes"
 license: MIT
+version: "1.0.0"
+doi: "10.5281/zenodo.24518155"
 date-released: 2026-11-23

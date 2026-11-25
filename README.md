@@ -1,5 +1,7 @@
 # Palm strike EMG: task goal, repetition and timing consistency
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24518155.svg)](https://doi.org/10.5281/zenodo.24518155)
+
 Data and analysis code for the manuscript *Task goal and repetition shape agonist and antagonist activity in a ballistic Kung Fu palm strike* (Pinto Neto, submitted to Human Movement Science).
 
 ## Data (`data/`)
@@ -35,4 +37,4 @@ Outputs go to `results/`. Python 3.10 or later. The large ensemble file `results
 Code: MIT (`LICENSE`). Data: CC BY 4.0 (`data/LICENSE_DATA.md`).
 
 ## Citation
-See `CITATION.cff`. An archived version with a DOI will be available on Zenodo.
+See `CITATION.cff`. Archived on Zenodo: version 1.0.0, https://doi.org/10.5281/zenodo.24518155
